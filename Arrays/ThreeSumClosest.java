@@ -60,7 +60,7 @@ public class ThreeSumClosest {
         int result1 = threeSumClosest(nums1, target1);
 
         System.out.println("Example 1:");
-        System.out.println("Closest Sum = " + result1);
+        System.out.println("Closest Suum = " + result1);
 
 
         System.out.println();
