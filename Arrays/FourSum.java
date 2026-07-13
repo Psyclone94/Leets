@@ -7,8 +7,6 @@ public class FourSum {
     public static List<List<Integer>> fourSum(int[] nums, int target) {
 
         List<List<Integer>> result = new ArrayList<>();
-
-        // Step 1: Sort the array
         Arrays.sort(nums);
 
         int n = nums.length;
